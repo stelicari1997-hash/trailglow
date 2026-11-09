@@ -1,0 +1,9 @@
+{
+  "id": "trailglow",
+  "name": "Trailglow",
+  "version": "0.4.0",
+  "minAppVersion": "1.4.0",
+  "description": "La tua vita come una linea neon: legge l'umore dalle note giornaliere e lo disegna come un'onda di luce.",
+  "author": "Ste",
+  "isDesktopOnly": false
+}
